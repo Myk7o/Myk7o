@@ -57,3 +57,10 @@
   <img src="https://icons.veryicon.com/png/o/education-technology/onemind/db2.png" title="DB2" alt="DB2" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Myk7o&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
