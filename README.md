@@ -28,7 +28,7 @@
 ### :man_technologist: About Me : I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves machine learning.
 - 🔎: I am a master's student at George Mason University majoring in Data Analytics Engineering.
 
-- :seedling: I believe that data is more than numbers, data is the habits of people and the patterns of the world that help discover new insights. .
+- :seedling: I believe that data is more than numbers, data is the habits of people and the patterns of the world that help discover new insights.
 
 - :zap: I'm sharpening my coding skills and studying Machine Learning in my free time.
 
