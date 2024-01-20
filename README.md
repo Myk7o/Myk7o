@@ -61,7 +61,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Myk7o&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myk7o&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myk7o&hide_progress=true)
 
 ---
 
